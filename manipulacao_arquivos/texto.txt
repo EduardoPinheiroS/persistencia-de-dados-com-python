@@ -1,0 +1,3 @@
+Esta e a primeira frase do meu arquivo.
+O Python facilita muito a manipulacao de dados.
+Arquivo gerado com sucesso para o trabalho pratico.
